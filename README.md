@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Santiago Ruiz Gallego 👋</h1>
 
-<h3 align="center">Backend Java Developer / Software Engineer</h3>
+<h3 align="center">Backend Java Developer / Software Technology</h3>
 
 💻 I am currently a 5th-semester Systems Technology student at Universidad del Valle, focused on backend development, Hexagonal Architecture, and scalable applications.
 🚀 I recently architected **NexoBank**, a multi-module application applying Domain-Driven Design (DDD) with regional scalability projections.
