@@ -2,7 +2,7 @@
 
 <h3 align="center">Backend Java Developer / Software Technology</h3>
 
-💻 I am currently a 5th-semester Systems Technology student at Universidad del Valle, focused on backend development, Hexagonal Architecture, and scalable applications.
+💻 I am currently a 5th-semester student at Universidad del Valle, focused on backend development, Hexagonal Architecture, and scalable applications.
 🚀 I recently architected **NexoBank**, a multi-module application applying Domain-Driven Design (DDD) with regional scalability projections.
 🎓 I hold certifications in **AWS Cloud Practitioner**, **Cybersecurity**, **Scrum**, and AI.
 📝 I am currently exploring cloud infrastructure and containerization with Docker.
